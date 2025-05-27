@@ -94,6 +94,10 @@
           "type": "technology"
         },
         {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
