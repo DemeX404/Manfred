@@ -84,6 +84,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "DevOps & Infrastructure & SRE",
