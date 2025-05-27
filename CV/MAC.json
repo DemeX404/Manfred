@@ -31,6 +31,44 @@
     "jobs": [
       {
         "organization": {
+          "name": "HPE-CDS"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador",
+            "startDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "Trabaje con Nodejs, Angular y Lit, desarrolle múltiples\nwebcomponents siguiendo un patron de microfrontend y sus\nrespectivos tests unitarios\nActualmente me encuentro en el equipo de automatización\ndesarrollando con Ansible, GitLab CI/CD y Bash,"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "AuresTIC"
         },
         "roles": [
