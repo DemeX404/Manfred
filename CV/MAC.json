@@ -27,6 +27,41 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "AuresTIC"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Back-End",
+            "startDate": "2021-06-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "Trabaje resolviendo tickets y haciendo mejoras con Odoo para\ndiferentes clientes\nDurante este periodo estuve programando con python,\npostgresql principalmente."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Odoo",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
