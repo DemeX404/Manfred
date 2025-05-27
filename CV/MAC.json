@@ -20,6 +20,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/damoes"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/DemeX404"
       }
     ]
   },
@@ -80,6 +84,10 @@
         {
           "URL": "https://www.linkedin.com/in/damoes",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/DemeX404",
+          "type": "github"
         }
       ]
     },
