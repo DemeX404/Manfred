@@ -108,6 +108,10 @@
       ],
       "discardedCompetences": [
         {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         }
