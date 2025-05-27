@@ -54,12 +54,6 @@
       },
       {
         "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github Actions",
           "type": "technology"
         }
@@ -67,6 +61,12 @@
       {
         "skill": {
           "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -165,15 +165,15 @@
         "type": "technology"
       },
       {
-        "name": "Express",
-        "type": "technology"
-      },
-      {
         "name": "Github Actions",
         "type": "technology"
       },
       {
         "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
         "type": "technology"
       },
       {
